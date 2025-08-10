@@ -47,8 +47,8 @@ A 4-chart Tableau dashboard was created to visualize insights:
 - **Scatter Plot**: Steps vs Calories burned
 - **Scatter Plot**: BMI vs Steps
 
-📎 [🔗 View Tableau Dashboard](https://public.tableau.com/views/BellabeatWellnessInsights/BellabeatWellnessInsightsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-📄 `bellabeat_dashboard.pdf` also included in this repo.
+ [🔗 View Tableau Dashboard](https://public.tableau.com/views/BellabeatWellnessInsights/BellabeatWellnessInsightsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+ `bellabeat_dashboard.pdf` also included in this repo.
 
 ---
 
