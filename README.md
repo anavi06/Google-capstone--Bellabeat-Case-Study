@@ -1,16 +1,16 @@
-# 📊 Bellabeat Case Study – Google Data Analytics Capstone Project
+#  Bellabeat Case Study – Google Data Analytics Capstone Project
 
 This project is a part of the **Google Data Analytics Professional Certificate** on Coursera. It analyzes Fitbit data from Bellabeat users to derive insights on their activity, sleep, and weight trends, using **Python** for analysis and **Tableau** for visualization.
 
 ---
 
-## 🧩 Project Objective
+##  Project Objective
 
 To help Bellabeat, a high-tech manufacturer of health-focused products for women, better understand how its users are behaving and identify opportunities to improve their smart device offerings through data-driven decisions.
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 
 - Source: [Fitbit Fitness Tracker Data (Kaggle)](https://www.kaggle.com/datasets/arashnic/fitbit)
 - Contains anonymized data for 30 users across:
@@ -20,7 +20,7 @@ To help Bellabeat, a high-tech manufacturer of health-focused products for women
 -This dataset includes Fitbit data from 33 users, although data availability varies across activity, sleep, and weight logs.
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 - **Python (Pandas, Matplotlib, Seaborn)** – Data cleaning and EDA
 - **Jupyter Notebook** – Analysis notebook
@@ -28,7 +28,7 @@ To help Bellabeat, a high-tech manufacturer of health-focused products for women
 
 ---
 
-## 📈 Key Analyses
+##  Key Analyses
 
 - Average steps per day: ~7,638
 - Most active days: Monday & Saturday
@@ -38,7 +38,7 @@ To help Bellabeat, a high-tech manufacturer of health-focused products for women
 
 ---
 
-## 📊 Final Dashboard
+##  Final Dashboard
 
 A 4-chart Tableau dashboard was created to visualize insights:
 
@@ -52,7 +52,7 @@ A 4-chart Tableau dashboard was created to visualize insights:
 
 ---
 
-## 🧠 Business Recommendations
+##  Business Recommendations
 
 - Encourage more consistent daily activity to reach 10,000 steps
 - Promote longer sleep durations (aim for 8+ hours)
